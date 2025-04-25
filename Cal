@@ -6,6 +6,4 @@
 input = a,b
 
 addition = a+b
-result =  addition
-
-
+result =  addition //Print 
