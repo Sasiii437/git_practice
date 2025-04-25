@@ -13,3 +13,8 @@ input = a,b
 addition = a+b
 result =  addition //Print 
 
+Mul = a*b
+result = Mul
+
+Div = a/b
+result = Div
