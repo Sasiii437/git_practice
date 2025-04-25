@@ -2,3 +2,14 @@
 #sub - dev 2
 #mul - dev 3
 #div -  dev 4
+
+
+
+sub = a-b
+result = sub
+=======
+input = a,b
+
+addition = a+b
+result =  addition //Print 
+
