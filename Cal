@@ -4,14 +4,10 @@
 #div -  dev 4
 
 
-Mul = a*b
-result = Mul
-
-
 
 sub = a-b
 result = sub
-==
+=======
 input = a,b
 
 addition = a+b
