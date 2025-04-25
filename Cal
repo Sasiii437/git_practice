@@ -4,5 +4,9 @@
 #div -  dev 4
 
 input = a,b
+
 addition = a+b
 result =  addition
+
+sub = a-b
+result = sub
